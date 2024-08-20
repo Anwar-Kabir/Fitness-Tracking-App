@@ -12,6 +12,6 @@ Fitness App Screenshots
   <img src="https://github.com/user-attachments/assets/b27076fc-2e38-407f-954a-ad40c5e90f12" alt="profile" width="30%" />
 </p>
 
-## Download the App
 
-[Download the APK](./releases/fitness_tracking.apk)
+
+
