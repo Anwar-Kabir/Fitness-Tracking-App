@@ -14,4 +14,4 @@ Fitness App Screenshots
 
 ## Download the App
 
-[Download the APK](./releases/your-app.apk)
+[Download the APK](./releases/fitness_tracking.apk)
